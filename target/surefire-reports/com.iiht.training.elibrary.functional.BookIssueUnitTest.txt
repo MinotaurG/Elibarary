@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.iiht.training.elibrary.functional.BookIssueUnitTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.058 s <<< FAILURE! - in com.iiht.training.elibrary.functional.BookIssueUnitTest
+testIssueBook  Time elapsed: 0.006 s  <<< ERROR!
+com.iiht.training.elibrary.exception.BookAlreadyIssuedException: The Book is already Issued
+	at com.iiht.training.elibrary.functional.BookIssueUnitTest.testIssueBook(BookIssueUnitTest.java:44)
+
